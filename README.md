@@ -5,11 +5,15 @@
 <!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script> -->
 
 ### About Me
-- Just got a diploma in information technology, with credits in machine data & operational analysis intelligence
+- Currently in full-time employment with Micron Technology as a Digital Innovation Analyst
 
-- Currently learning economics & market analysis via Bloomberg for Education's course on [Bloomberg Market Concepts](https://portal.bloombergforeducation.com)
+- Has a Diploma in Information Technology, with credits in machine data & operational analysis intelligence
+
+<!-- - Used to pick up learning economics & market analysis via Bloomberg for Education's course on [Bloomberg Market Concepts](https://portal.bloombergforeducation.com) -->
 
 - Pronouns: they/them/her
+
+- Read more about me at [my website](https://arialhamed.github.io/about)!
 
 - How to reach me: [send an email!](mailto:arifhamed.arial@outlook.com)
 
