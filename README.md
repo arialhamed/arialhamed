@@ -7,9 +7,9 @@
 ### About Me
 - Currently in full-time employment with Micron
 
-- Has a Diploma in Information Technology, with credits in machine data & operational analysis intelligence
+- Currently taking a (part-time) Bachelor's Degree in Electrical & Electronics Engineering in Singapore's Institute of Technology
 
-- Currently taking a Bachelor's Degree in Electrical & Electronics Engineering in Singapore's Institute of Technology
+- Has a Diploma in Information Technology, with credits in machine data & operational analysis intelligence
 
 <!-- - Used to pick up learning economics & market analysis via Bloomberg for Education's course on [Bloomberg Market Concepts](https://portal.bloombergforeducation.com) -->
 
@@ -17,7 +17,7 @@
 
 - Read more about me at [my website](https://arialhamed.github.io/about)!
 
-- How to reach me: [send an email!](mailto:arifhamed.arial@outlook.com)
+- How to reach me: [send an email!](mailto:arialhamed@outlook.com)
 
 
 ### Languages and Tools:
